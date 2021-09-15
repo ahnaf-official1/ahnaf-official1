@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 <img align="left" alt="Visual Studio Code" width="46px" src="https://i.imgur.com/7Lw2qzH.png" />
 <img align="left" alt="Sass" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="JavaScript" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="JavaScript" width="46px" src="https://iconape.com/wp-content/png_logo_vector/tailwind-css-logo.png" />
 <img align="left" alt="Visual Studio Code" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="React" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Node.js" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
@@ -52,7 +53,7 @@ Here are some ideas to get you started:
 <img align="left" alt="LINK" src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white" />
 <img align="left" alt="LINK" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" />
 <br>
-<img align="left" alt="LINK" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+<img alt="LINK" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
 
 <br>
 <br>
@@ -75,3 +76,4 @@ Here are some ideas to get you started:
 [GitHub]: http://www.github.com/ahnaf-official1
 
 <!--  Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
+<!-- Special thanks to https://github.com/Ileriayo/ for the icons -->
