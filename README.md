@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ### Hi there, I'm Ahnaf Zareef
 
-## ['m a developer, coder and student!
+## ['m a developer, coder and a student!
     - I am currently learning MERN stack
     - I am trying to grasp maximum things about full stack development
     - I love Maths & Physics.
