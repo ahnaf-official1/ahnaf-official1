@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="Visual Studio Code" width="26px" src="http://i.imgur.com/P3YfQoD.png" />][facebook]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://i.imgur.com/8ZYLcdW.png" />][mail]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://i.imgur.com/RIefvk9.png" />][linkdein]
-[<img align="left" alt="Visual Studio Code" width="26px" src="http://i.imgur.com/0o48UoR.png" />][github]
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 <br>
 
