@@ -40,13 +40,16 @@ Here are some ideas to get you started:
 
 
 
-[website]: https://codeSTACKr.com
-[course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+[2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
+[3.1]: https://i.imgur.com/8ZYLcdW.png (google plus icon with padding)
+[5.1]: https://i.imgur.com/RIefvk9.png
+[6.1]: http://i.imgur.com/0o48UoR.png
+
+[1]: https://twitter.com/AhnafZareef
+[2]: https://www.facebook.com/ahnaf.zareef.6/
+[3]: mailto:"ahnafzareef2007@gmail.com"
+[5]: https://www.linkedin.com/in/ahnaf-zareef-201596216/
+[6]: http://www.github.com/ahnaf-official1
+
+<!--  Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
