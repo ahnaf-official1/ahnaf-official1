@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 
 [twitter]: https://twitter.com/AhnafZareef
 [facebook]: https://www.facebook.com/ahnaf.zareef.6/
-[mail]: mailto:"ahnafzareef2007@gmail.com"
+[Gmail]: mailto:"ahnafzareef2007@gmail.com"
 [linkdein]: https://www.linkedin.com/in/ahnaf-zareef-201596216/
 [GitHub]: http://www.github.com/ahnaf-official1
 
