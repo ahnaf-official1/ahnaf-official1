@@ -64,11 +64,11 @@ Here are some ideas to get you started:
 
 ## Connect with me
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="http://i.imgur.com/tXSoThF.png" />][twitter]
-[<img align="left" alt="Visual Studio Code" width="26px" src="http://i.imgur.com/P3YfQoD.png" />][facebook]
-[<img align="left" alt="Visual Studio Code" width="40px" src="https://i.imgur.com/RIefvk9.png" />][linkdein]
-[<img align="left" alt="Visual Studio Code" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][Gmail]
-[<img align="left" alt="Visual Studio Code" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />][GitHub]
+[<img align="left" target="_blank" alt="Visual Studio Code" width="26px" src="http://i.imgur.com/tXSoThF.png" />][twitter]
+[<img align="left" target="_blank" alt="Visual Studio Code" width="26px" src="http://i.imgur.com/P3YfQoD.png" />][facebook]
+[<img align="left" target="_blank" alt="Visual Studio Code" width="40px" src="https://i.imgur.com/RIefvk9.png" />][linkdein]
+[<img align="left" target="_blank" alt="Visual Studio Code" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][Gmail]
+[<img align="left" target="_blank" alt="Visual Studio Code" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />][GitHub]
 <br/>
 <br>
 
